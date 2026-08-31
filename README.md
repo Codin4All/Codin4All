@@ -91,29 +91,8 @@ Working with **REST APIs**, CRUD
 operations and API testing using
 **Postman**.
 
-</td>
-
-</tr>
-
-<tr>
 
 <td align="center" width="50%">
-
-### 🔥 Firebase Applications
-
-Exploring Firebase services and
-integrating them into Flutter
-applications.
-
-</td>
-
-<td align="center" width="50%">
-
-### 🧩 Backend Fundamentals
-
-Learning the fundamentals of
-Backend Development, databases
-and client-server communication.
 
 </td>
 
@@ -126,23 +105,8 @@ and client-server communication.
 
 <!-- ======================= PROJECTS ======================= -->
 
-## 🌟 Featured Projects
 
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### 🛒 Flutter E-Commerce
-
-A mobile e-commerce application
-built with Flutter and REST API
-integration.
-
-**Flutter • Dart • REST API • MySQL**
+**Flutter • Dart • REST API 
 
 </td>
 
@@ -170,7 +134,7 @@ A collection of Flutter applications
 developed while learning mobile
 application development.
 
-**Flutter • Dart • Firebase**
+**Flutter • Dart 
 
 </td>
 
