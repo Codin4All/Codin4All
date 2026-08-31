@@ -1,98 +1,70 @@
-<!-- ========================= HEADER ========================= -->
+<!-- ======================= HEADER ======================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:7B68EE&height=180&section=header&text=Robayet%20Ferdous&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+# 👋 Hey! I'm **Robayet Ferdous**
 
-<h2>👋 Hello, I'm Robayet Ferdous</h2>
+### 📱 Flutter Developer | 🎓 Software Engineering Student
 
-<h3>📱 Flutter Developer &nbsp;|&nbsp; 🎓 Software Engineering Student</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Flutter+Developer+%F0%9F%93%B1;Dart+%7C+Flutter+%7C+Firebase;REST+API+%26+Postman+Explorer+%F0%9F%94%A5;Building+Useful+Mobile+Applications+%F0%9F%92%A1;Always+Learning%2C+Always+Building+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Flutter+Developer+%F0%9F%93%B1;Dart+%7C+Flutter+%7C+Firebase;REST+API+%26+Postman+Explorer+%F0%9F%94%A5;Learning+Backend+Development+%F0%9F%A7%A9;Building+Apps+That+Solve+Problems+%F0%9F%92%A1" />
 
 <br>
 
 <a href="https://github.com/Codin4All">
-<img src="https://komarev.com/ghpvc/?username=Codin4All&label=Profile%20Views&color=00BFFF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Codin4All&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </a>
 
 <a href="https://github.com/Codin4All?tab=followers">
-<img src="https://img.shields.io/github/followers/Codin4All?style=for-the-badge&logo=github&label=Followers&color=7B68EE" />
+<img src="https://img.shields.io/github/followers/Codin4All?style=for-the-badge&logo=github&label=Followers" />
 </a>
 
 </div>
 
 ---
 
-<!-- ========================= ABOUT ME ========================= -->
+<!-- ======================= ABOUT ME ======================= -->
 
 ## 🧑‍💻 About Me
 
-<div align="center">
-
-> 💡 **Code • Learn • Build • Improve**
-
-</div>
+> **"Code. Learn. Build. Repeat."**
 
 I'm a **Software Engineering student** and a passionate **Flutter Developer**
-who enjoys creating modern and user-friendly mobile applications.
+who enjoys building modern and user-friendly mobile applications.
 
-I enjoy learning by building real projects and exploring new technologies.
-My main focus is **Flutter application development**, while I also have an
-interest in **REST APIs, Postman, databases and basic backend development concepts**.
+I'm currently focused on improving my Flutter development skills while
+exploring REST APIs, Postman, Firebase, databases and the fundamentals of
+Backend Development.
 
 ### 💡 What I Do
 
 - 📱 Build mobile applications using **Flutter & Dart**
-- 🎨 Create clean and responsive user interfaces
 - 🔥 Work with **Firebase**
 - 🌐 Integrate **REST APIs**
 - 🧪 Test APIs using **Postman**
 - 🗄️ Work with **MySQL**
 - 🔧 Use **Git & GitHub** for version control
+- 🧩 Learn the fundamentals of **Backend Development**
 - 🧠 Practice programming and problem solving with **C++**
 
 ---
 
-<!-- ========================= TOOLS & TECHNOLOGIES ========================= -->
+<!-- ======================= TOOLS & TECHNOLOGIES ======================= -->
 
-## 🧩 Tools & Technologies
+## 🛠️ Tools & Technologies
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,mysql,postman,cpp,git,github,vscode,androidstudio" />
 
-### 📱 Development
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,mysql" />
-
-</td>
-
-<td align="center">
-
-### 🌐 API & Database
-
-<img src="https://skillicons.dev/icons?i=postman,mysql" />
-
-</td>
-
-<td align="center">
-
-### 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
-
-</td>
-</tr>
-</table>
+`Flutter` • `Dart` • `Firebase` • `REST API` • `Postman` • `MySQL` • `C++` • `Git` • `GitHub`
 
 </div>
 
 ---
 
-<!-- ========================= WHAT I BUILD ========================= -->
+<!-- ======================= WHAT I BUILD ======================= -->
 
 ## 🚀 What I Build
 
@@ -101,23 +73,23 @@ interest in **REST APIs, Postman, databases and basic backend development concep
 <table>
 <tr>
 
-<td width="50%" align="center">
+<td align="center" width="50%">
 
 ### 📱 Mobile Applications
 
-Flutter-based mobile applications with
-clean UI, navigation, API integration
-and Firebase services.
+Building modern mobile applications
+with **Flutter & Dart**, focusing on
+clean UI and smooth user experience.
 
 </td>
 
-<td width="50%" align="center">
+<td align="center" width="50%">
 
-### 🌐 API Integrated Apps
+### 🌐 API Integration
 
-Applications connected with REST APIs,
-including CRUD operations and API testing
-using Postman.
+Working with **REST APIs**, CRUD
+operations and API testing using
+**Postman**.
 
 </td>
 
@@ -125,23 +97,23 @@ using Postman.
 
 <tr>
 
-<td width="50%" align="center">
+<td align="center" width="50%">
 
-### 🔥 Firebase Projects
+### 🔥 Firebase Applications
 
-Mobile applications using Firebase
-for authentication, data and
-application services.
+Exploring Firebase services and
+integrating them into Flutter
+applications.
 
 </td>
 
-<td width="50%" align="center">
+<td align="center" width="50%">
 
-### 🧠 Programming Projects
+### 🧩 Backend Fundamentals
 
-Academic and personal projects using
-C++ with a focus on programming
-and problem solving.
+Learning the fundamentals of
+Backend Development, databases
+and client-server communication.
 
 </td>
 
@@ -152,33 +124,85 @@ and problem solving.
 
 ---
 
-<!-- ========================= FEATURED PROJECTS ========================= -->
+<!-- ======================= PROJECTS ======================= -->
 
 ## 🌟 Featured Projects
 
 <div align="center">
 
-| 📱 Project | 📝 Description | 🛠️ Technology |
-| :--- | :--- | :--- |
-| 🛒 **E-Commerce App** | Flutter application with REST API integration | `Flutter` `Dart` `REST API` |
-| 🔐 **REST API CRUD App** | CRUD operations and API communication | `Flutter` `REST API` `Postman` |
-| 📚 **Student Information Manager** | Student information management project | `Flutter` `MySQL` |
-| ☕ **Coffee Cloud Shop** | Mobile shopping application project | `Flutter` `Dart` |
-| 📱 **Flutter Class Projects** | Collection of Flutter learning projects | `Flutter` `Dart` `Firebase` |
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🛒 Flutter E-Commerce
+
+A mobile e-commerce application
+built with Flutter and REST API
+integration.
+
+**Flutter • Dart • REST API • MySQL**
+
+</td>
+
+<td width="50%">
+
+### 🔐 REST API CRUD
+
+A Flutter application demonstrating
+REST API communication and complete
+CRUD operations.
+
+**Flutter • REST API • Postman**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📱 Flutter Class Projects
+
+A collection of Flutter applications
+developed while learning mobile
+application development.
+
+**Flutter • Dart • Firebase**
+
+</td>
+
+<td width="50%">
+
+### 👨‍💻 Programming Projects
+
+Academic and personal projects
+focused on programming and
+problem solving.
+
+**C++ • Dart • Algorithms**
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
 ---
 
-<!-- ========================= GITHUB ANALYTICS ========================= -->
+<!-- ======================= GITHUB ANALYTICS ======================= -->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Codin4All&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Codin4All&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codin4All&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codin4All&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
 
 </div>
 
@@ -186,13 +210,13 @@ and problem solving.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Codin4All&theme=tokyonight&hide_border=true&border_radius=15" />
+<img src="https://streak-stats.demolab.com/?user=Codin4All&theme=tokyonight&hide_border=true&border_radius=12" />
 
 </div>
 
 ---
 
-<!-- ========================= CONTRIBUTION ========================= -->
+<!-- ======================= CONTRIBUTION ======================= -->
 
 ## 🐍 Contribution Journey
 
@@ -204,21 +228,62 @@ and problem solving.
 
 ---
 
-<!-- ========================= CURRENTLY LEARNING ========================= -->
+<!-- ======================= CURRENTLY LEARNING ======================= -->
 
 ## 🎯 Currently Learning
 
 <div align="center">
 
-```text
-Flutter Advanced Development
-          ↓
-REST API Integration
-          ↓
-Postman & API Testing
-          ↓
-Firebase
-          ↓
-Basic Backend Concepts
-          ↓
-Clean Architecture
+`Flutter Advanced Development`  
+↓  
+`REST API Integration`  
+↓  
+`Postman & API Testing`  
+↓  
+`Firebase`  
+↓  
+`Backend Development Fundamentals`  
+↓  
+`Clean Architecture`
+
+</div>
+
+---
+
+<!-- ======================= CONNECT ======================= -->
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Codin4All">
+<img src="https://img.shields.io/badge/GitHub-Codin4All-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/robayet-ferdosh-667310299/">
+<img src="https://img.shields.io/badge/LinkedIn-Robayet%20Ferdous-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/robayet_ferdous_/">
+<img src="https://img.shields.io/badge/Instagram-robayet__ferdous__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/robayeth.ferdosh">
+<img src="https://img.shields.io/badge/Facebook-Robayet%20Ferdous-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="mailto:robayetferdosh@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-robayetferdosh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+**⭐ Feel free to explore my repositories and connect with me! ⭐**
+
+</div>
